@@ -1,3 +1,3 @@
-# Card_Checker_1.0
-# Card_Checker_1.0
-Teste do github brasil hahahaha!
+# Card_Checker_0.1
+Trabalhando em projeto! desevolvimento em andamento!
+Arquviso open sourse use eles como quiser.
